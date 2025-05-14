@@ -1,0 +1,5 @@
+streamlit==1.32.2
+pandas==2.2.1
+numpy==1.26.4
+googlemaps==4.10.0
+python-dotenv==1.0.1 
